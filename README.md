@@ -27,4 +27,4 @@ This project is a mobile application developed using React Native that allows us
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense-todo.git
+   [git clone https://github.com/yourusername/expense-todo.git](https://github.com/rk05-lenavo/Expense-Tracking-and-To-Do-List-App.git)
